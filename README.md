@@ -1,4 +1,4 @@
-# AI-Powered-Knowledge-Engine-for-Smart-Support-and-Ticket-Resolution
+
 # 🤖 AI-Powered Knowledge Engine for Smart Support & Ticket Resolution
 
 > An intelligent platform to streamline customer support by leveraging AI and large language models for real-time knowledge access, content categorization, and article recommendations.
