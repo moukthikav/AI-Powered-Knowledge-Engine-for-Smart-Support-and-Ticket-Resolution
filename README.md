@@ -9,7 +9,7 @@
 
 This project focuses on developing an **AI-based knowledge management platform** tailored for customer support teams. Using large language models (LLMs) like **OpenAI GPT** and **Meta LLaMA**, the system automatically tags, categorizes, and recommends relevant support articles based on ticket content.  
 
-By integrating with tools like **Google Sheets** (for data handling) and **Slack** (for team communication), it enables real-time solution suggestions, identifies knowledge gaps, and improves support efficiency.  
+By integrating with tools like **Google Sheets** (for data handling) , it enables real-time solution suggestions, identifies knowledge gaps, and improves support efficiency.  
 
 **Key Goals:**
 - Faster and more organized access to knowledge articles  
@@ -71,6 +71,4 @@ By integrating with tools like **Google Sheets** (for data handling) and **Slack
 
 
 
-
-*Made with ❤️ using AI & NLP technologies.*
 
