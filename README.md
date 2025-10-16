@@ -24,7 +24,7 @@ By integrating with tools like **Google Sheets** (for data handling) , it enable
 - 🏷 **Knowledge Categorization & Tagging:** NLP-based automatic classification of support documents with semantic understanding.  
 - 📄 **Real-Time Article Recommendations:** Suggests relevant solutions instantly as tickets are created.  
 - 📊 **Content Gap Detection:** Monitors article usage and flags underrepresented topics.  
-- 🔗 **Integration & Reporting Hub:** Connects with Google Sheets, Slack, and other tools; provides dashboards and alerts.  
+- 🔗 **Integration & Reporting Hub:** Connects with Google Sheets, and other tools; provides dashboards and alerts.  
 
 ---
 
@@ -36,7 +36,7 @@ By integrating with tools like **Google Sheets** (for data handling) , it enable
 | Backend   | Python, NLP libraries |
 | Data Handling | Google Sheets API, Pandas |
 | Visualization | Matplotlib, Seaborn |
-| Communication | Slack API |
+| Communication | Groq API |
 | Deployment | Local / Cloud-based server |
 
 ---
