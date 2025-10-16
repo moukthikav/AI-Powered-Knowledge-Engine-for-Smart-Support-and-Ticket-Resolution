@@ -1,0 +1,30 @@
+streamlit>=1.20
+pandas
+requests
+python-dotenv
+seaborn
+matplotlib
+langchain-groq   
+# Core Python Libraries
+numpy>=1.24.0
+pandas>=2.1.0
+
+# NLP / AI Libraries
+transformers>=4.40.0
+torch>=2.1.0
+sentence-transformers>=2.2.2
+
+# Google Sheets Integration
+gspread>=6.5.0
+oauth2client>=4.1.3
+
+# Data Visualization
+matplotlib>=3.8.0
+seaborn>=0.12.2
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# Optional: For web APIs if needed later
+requests>=2.32.0
